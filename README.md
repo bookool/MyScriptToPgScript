@@ -1,0 +1,2 @@
+# MyScriptToPgScript
+将Mysql的建表脚本转换为PostgreSQL的建表脚本
