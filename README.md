@@ -2,7 +2,7 @@
 将Mysql的建表脚本转换为PostgreSQL的建表脚本。
 PostgreSQL 与 Mysql 相比，有很多令人向往的东西，网上评论很多，不再赘述。
 本项目主要是配合代码生成器项目使用，详见：
-[PgBatis3AutoCode](https://github.com/bookool/PgBatis3AutoCode)
+[PgBatis3AutoCode](https://github.com/bookool/PgBatis3AutoCode)  。  
 如想从 MySql 转到 PostgreSQL ，可以试试本项目。
 
 ## 使用方法
